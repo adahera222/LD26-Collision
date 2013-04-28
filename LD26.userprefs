@@ -1,0 +1,56 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CenterAtom.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CenterAtom.cs" Line="34" Column="13" />
+      <File FileName="Assets/Scripts/NumberText.cs" Line="34" Column="14" />
+      <File FileName="Assets/Scripts/Main.cs" Line="51" Column="33" />
+      <File FileName="Assets/Scripts/IncomingAtom.cs" Line="193" Column="40" />
+      <File FileName="Assets/Scripts/TouchKit/Recognizers/TKTapRecognizer.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TouchKit/Recognizers/TKAbstractGestureRecognizer.cs" Line="174" Column="1" />
+      <File FileName="Assets/Scripts/TouchKit/Helpers/TKRect.cs" Line="51" Column="1" />
+      <File FileName="Assets/Scripts/JobManager.cs" Line="123" Column="1" />
+      <File FileName="Assets/Scripts/HSBColor.cs" Line="17" Column="12" />
+      <File FileName="Assets/Scripts/SoundManager/Sound.cs" Line="75" Column="1" />
+      <File FileName="Assets/Scripts/SoundManager/So.cs" Line="101" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="SoundManager" expanded="True" />
+                <Node name="TouchKit" expanded="True">
+                  <Node name="Helpers" expanded="True" />
+                  <Node name="Recognizers" expanded="True" />
+                </Node>
+                <Node name="CenterAtom.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>po.gameObject</Value>
+          <Value>x</Value>
+          <Value>y</Value>
+          <Value>rendererBounds</Value>
+          <Value>recognizer</Value>
+          <Value>this</Value>
+          <Value>pAtom</Value>
+          <Value>collidSounds</Value>
+          <Value>AudioListener</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../CovertKingdom/Changes/Assets\Script\Prime31\ResolutionFree\IPositionablePositioningExtensions.cs" line="977" offsetX="668" offsetY="9450" expression="global::UIRelative.xAnchorAdjustment" liveUpdate="False" />
+    <Watch file="../CovertKingdom/Changes/Assets/Script/Game/Misc/DungeonSceneUIHandler.cs" line="18" offsetX="180" offsetY="255" expression="button" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
